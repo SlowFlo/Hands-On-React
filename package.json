@@ -1,0 +1,27 @@
+{
+  "name": "hands-on-react",
+  "version": "1.0.0",
+  "description": "Minesweeper game",
+  "keywords": [
+    "React",
+    "Redux"
+  ],
+  "homepage": "https://github.com/SlowFlo/Hands-On-React#readme",
+  "bugs": {
+    "url": "https://github.com/SlowFlo/Hands-On-React/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SlowFlo/Hands-On-React.git"
+  },
+  "license": "MIT",
+  "author": "Nikita Ovchinnikov - SlowFlo",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "typescript": "^5.9.3"
+  }
+}
